@@ -25,4 +25,4 @@ Daylight savings y/n
 
 This script assumes ideally positioned panels (directly southern facing, ideal pitch for latitude). For a more generalized calculation we would need to account for panel angle and pitch. I happen to have a south-facing roof with approxmiately the ideal pitch so I didn't implement this, sorry.
 
-Sample output file also included.
+Sample output file also included. Deciding on which permutation is best is left as an exercise for the user, as it will depend on cost, electricity rates, and local policy (ie are you in a net-metering area?)
