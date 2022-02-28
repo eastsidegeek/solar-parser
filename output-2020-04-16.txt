@@ -1,0 +1,176 @@
+---- Scenario 1 -----
+Peak power per panel: 275W
+Panels: 5
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 2715
+Minutes at max charge: 0
+Total panel production: 43.5
+Total delta vs demand: 67.0
+
+---- Scenario 2 -----
+Peak power per panel: 275W
+Panels: 6
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 2492
+Minutes at max charge: 0
+Total panel production: 52.1
+Total delta vs demand: 58.3
+
+---- Scenario 3 -----
+Peak power per panel: 275W
+Panels: 7
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 2138
+Minutes at max charge: 0
+Total panel production: 60.8
+Total delta vs demand: 49.6
+
+---- Scenario 4 -----
+Peak power per panel: 275W
+Panels: 8
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 1716
+Minutes at max charge: 0
+Total panel production: 69.5
+Total delta vs demand: 40.9
+
+---- Scenario 5 -----
+Peak power per panel: 275W
+Panels: 9
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 1318
+Minutes at max charge: 0
+Total panel production: 78.2
+Total delta vs demand: 32.2
+
+---- Scenario 6 -----
+Peak power per panel: 275W
+Panels: 10
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 979
+Minutes at max charge: 0
+Total panel production: 86.9
+Total delta vs demand: 23.5
+
+---- Scenario 7 -----
+Peak power per panel: 275W
+Panels: 11
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 0.0kWh 
+Minutes at no charge: 565
+Minutes at max charge: 0
+Total panel production: 95.6
+Total delta vs demand: 14.9
+
+---- Scenario 8 -----
+Peak power per panel: 275W
+Panels: 12
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 2.2kWh 
+Minutes at no charge: 513
+Minutes at max charge: 100
+Total panel production: 104.3
+Total delta vs demand: 6.2
+
+---- Scenario 9 -----
+Peak power per panel: 275W
+Panels: 13
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 7.5kWh 
+Minutes at no charge: 453
+Minutes at max charge: 270
+Total panel production: 113.0
+Total delta vs demand: -2.5
+
+---- Scenario 10 -----
+Peak power per panel: 275W
+Panels: 14
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 12.8kWh 
+Minutes at no charge: 408
+Minutes at max charge: 370
+Total panel production: 121.7
+Total delta vs demand: -11.2
+
+---- Scenario 11 -----
+Peak power per panel: 275W
+Panels: 15
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 19.8kWh 
+Minutes at no charge: 401
+Minutes at max charge: 525
+Total panel production: 130.4
+Total delta vs demand: -19.9
+
+---- Scenario 12 -----
+Peak power per panel: 275W
+Panels: 16
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 27.3kWh 
+Minutes at no charge: 392
+Minutes at max charge: 659
+Total panel production: 139.1
+Total delta vs demand: -28.6
+
+---- Scenario 13 -----
+Peak power per panel: 275W
+Panels: 17
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 34.9kWh 
+Minutes at no charge: 380
+Minutes at max charge: 766
+Total panel production: 147.7
+Total delta vs demand: -37.3
+
+---- Scenario 14 -----
+Peak power per panel: 275W
+Panels: 18
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 43.0kWh 
+Minutes at no charge: 371
+Minutes at max charge: 860
+Total panel production: 156.4
+Total delta vs demand: -46.0
+
+---- Scenario 15 -----
+Peak power per panel: 275W
+Panels: 19
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 51.2kWh 
+Minutes at no charge: 360
+Minutes at max charge: 948
+Total panel production: 165.1
+Total delta vs demand: -54.7
+
+---- Scenario 16 -----
+Peak power per panel: 275W
+Panels: 20
+Batteries: 1
+Battery capacity: 11kWh
+Total exported: 59.5kWh 
+Minutes at no charge: 335
+Minutes at max charge: 1029
+Total panel production: 173.8
+Total delta vs demand: -63.4
+
